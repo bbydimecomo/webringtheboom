@@ -13,5 +13,6 @@ Razones para Crear la Página:
 4.	Promoción Profesional: Como futuro diseñador web y programador, esta página también funciona como marketing. Ya que el programa fue escrito y alterado por mí.
 
 5.	Interactividad: La página tiene funciones interactivas, como registro de contacto, botones para descargar mi resume y un easter egg secreto. La mayoría de la interactividad fue hecha con código HTML, y el easter fue en javascript.
-Conclusión:
+
+# Conclusión:
 Crear una página "About Me" en teoría es lo que me va a ayudar a mejorar mis skills de código. Esta mejoría llevando a mayores oportunidades profesionales en el futuro.
